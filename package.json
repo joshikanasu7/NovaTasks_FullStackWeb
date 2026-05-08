@@ -6,7 +6,7 @@
     "dev": "next dev",
     "dev:easy": "node scripts/dev-easy.mjs",
     "build": "next build",
-    "start": "next dev",
+    "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit"
   },
